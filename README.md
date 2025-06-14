@@ -13,4 +13,4 @@ Unlike typical apps, it features:
 - *Accessibility*: AI chatbot offers quick, conversational guidance.
 
 At 05:58 PM IST on June 14, 2025, enjoy the sunny sky with drifting clouds—aurora kicks in soon! ☀🌙
- [your link here]{https://aiweatherapp-42194.web.app}
+ [your link here](https://aiweatherapp-42194.web.app/)
