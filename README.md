@@ -16,7 +16,6 @@ At 05:58 PM IST on June 14, 2025, enjoy the sunny sky with drifting clouds—aur
  [your link here](https://aiweatherapp-42194.web.app/)
  <h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
